@@ -1,0 +1,15 @@
+{
+  "name": "Проход LoungeKey",
+  "short_name": "Проход",
+  "description": "Конструктор прохода: имя, QR, баркод, срок действия 24 часа",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f2f5",
+  "theme_color": "#673B86",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
